@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-components-jsx-hw/static/css/main.3bbbf26b.css",
+    "main.js": "/react-components-jsx-hw/static/js/main.b10115d9.js",
+    "static/media/delete.svg": "/react-components-jsx-hw/static/media/delete.212c8821d736f8b11fbebad7e3d13d5b.svg",
+    "index.html": "/react-components-jsx-hw/index.html",
+    "main.3bbbf26b.css.map": "/react-components-jsx-hw/static/css/main.3bbbf26b.css.map",
+    "main.b10115d9.js.map": "/react-components-jsx-hw/static/js/main.b10115d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bbbf26b.css",
+    "static/js/main.b10115d9.js"
+  ]
+}
