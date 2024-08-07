@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-components-jsx-hw/static/css/main.3bbbf26b.css",
-    "main.js": "/react-components-jsx-hw/static/js/main.b10115d9.js",
-    "static/media/delete.svg": "/react-components-jsx-hw/static/media/delete.212c8821d736f8b11fbebad7e3d13d5b.svg",
-    "index.html": "/react-components-jsx-hw/index.html",
-    "main.3bbbf26b.css.map": "/react-components-jsx-hw/static/css/main.3bbbf26b.css.map",
-    "main.b10115d9.js.map": "/react-components-jsx-hw/static/js/main.b10115d9.js.map"
+    "main.css": "/react-class-components-hw/static/css/main.3bbbf26b.css",
+    "main.js": "/react-class-components-hw/static/js/main.c47b41bb.js",
+    "static/media/delete.svg": "/react-class-components-hw/static/media/delete.212c8821d736f8b11fbebad7e3d13d5b.svg",
+    "index.html": "/react-class-components-hw/index.html",
+    "main.3bbbf26b.css.map": "/react-class-components-hw/static/css/main.3bbbf26b.css.map",
+    "main.c47b41bb.js.map": "/react-class-components-hw/static/js/main.c47b41bb.js.map"
   },
   "entrypoints": [
     "static/css/main.3bbbf26b.css",
-    "static/js/main.b10115d9.js"
+    "static/js/main.c47b41bb.js"
   ]
 }
